@@ -52,16 +52,10 @@ class ExchangeRateInfo extends Component {
     for (let i = 0; i < exchangeRates.length; i++) {
       const item = exchangeRates[i];
       content.push(
-        <TableRow>
-          <TableCell key={item.id} align="right">
-            {item.from}
-          </TableCell>
-          <TableCell key={item.id} align="right">
-            {item.to}
-          </TableCell>
-          <TableCell key={item.id} align="right">
-            {item.rate}
-          </TableCell>
+        <TableRow key={i}>
+          <TableCell align="right">{item.from}</TableCell>
+          <TableCell align="right">{item.to}</TableCell>
+          <TableCell align="right">{item.rate}</TableCell>
         </TableRow>
       );
     }
@@ -73,9 +67,7 @@ class ExchangeRateInfo extends Component {
       <div className="exchangerateinfo">
         <h1 className="exchangerateinfo__heading">Liquality Market Info</h1>
         <div className="exchangerateinfo__actionarea">
-          <FormControl
-            variant="outlined"
-          >
+          <FormControl variant="outlined">
             <InputLabel htmlFor="outlined-age-native-simple">
               Refresh Time
             </InputLabel>
@@ -85,7 +77,6 @@ class ExchangeRateInfo extends Component {
               onChange={this.toggleRefreshTime}
               label="Refresh Time"
             >
-              <option aria-label="None" value="" />
               <option value={5000}>5 Seconds</option>
               <option value={10000}>10 Seconds</option>
               <option value={15000}>15 Seconds</option>

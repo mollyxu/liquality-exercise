@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a3e9d183a54278088892e3c60395360",
+    "revision": "26f0a3b30d5f533e20c0ced19db64caf",
     "url": "/liquality-exercise/index.html"
   },
   {
-    "revision": "28e7ae455100aa63c134",
+    "revision": "0b4933ad734474755bfa",
     "url": "/liquality-exercise/static/css/main.5bfbb644.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/liquality-exercise/static/js/2.f0033e34.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "28e7ae455100aa63c134",
-    "url": "/liquality-exercise/static/js/main.b0852e23.chunk.js"
+    "revision": "0b4933ad734474755bfa",
+    "url": "/liquality-exercise/static/js/main.088c3a8b.chunk.js"
   },
   {
     "revision": "68b5284f8e26f188f72a",
