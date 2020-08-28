@@ -43,7 +43,6 @@ class ExchangeRateInfo extends Component {
           this.getData.bind(this),
           this.state.refreshtime
         );
-        console.log(this.state);
       });
   };
 
