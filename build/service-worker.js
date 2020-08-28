@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/liquality-exercise/precache-manifest.6ad9397d191851988082789816391f26.js"
+  "/liquality-exercise/precache-manifest.0233f54fd317317bed0b07b1613e5e87.js"
 );
 
 self.addEventListener('message', (event) => {
