@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/liquality-exercise/static/css/main.5bfbb644.chunk.css",
-    "main.js": "/liquality-exercise/static/js/main.f8c6c2f6.chunk.js",
-    "main.js.map": "/liquality-exercise/static/js/main.f8c6c2f6.chunk.js.map",
+    "main.js": "/liquality-exercise/static/js/main.a31ea62d.chunk.js",
+    "main.js.map": "/liquality-exercise/static/js/main.a31ea62d.chunk.js.map",
     "runtime-main.js": "/liquality-exercise/static/js/runtime-main.320d77b6.js",
     "runtime-main.js.map": "/liquality-exercise/static/js/runtime-main.320d77b6.js.map",
     "static/js/2.8aa6f90f.chunk.js": "/liquality-exercise/static/js/2.8aa6f90f.chunk.js",
     "static/js/2.8aa6f90f.chunk.js.map": "/liquality-exercise/static/js/2.8aa6f90f.chunk.js.map",
     "index.html": "/liquality-exercise/index.html",
-    "precache-manifest.6ad9397d191851988082789816391f26.js": "/liquality-exercise/precache-manifest.6ad9397d191851988082789816391f26.js",
+    "precache-manifest.0233f54fd317317bed0b07b1613e5e87.js": "/liquality-exercise/precache-manifest.0233f54fd317317bed0b07b1613e5e87.js",
     "service-worker.js": "/liquality-exercise/service-worker.js",
     "static/css/main.5bfbb644.chunk.css.map": "/liquality-exercise/static/css/main.5bfbb644.chunk.css.map",
     "static/js/2.8aa6f90f.chunk.js.LICENSE.txt": "/liquality-exercise/static/js/2.8aa6f90f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.320d77b6.js",
     "static/js/2.8aa6f90f.chunk.js",
     "static/css/main.5bfbb644.chunk.css",
-    "static/js/main.f8c6c2f6.chunk.js"
+    "static/js/main.a31ea62d.chunk.js"
   ]
 }
