@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AACE,2BACE,sCAAwC,CACxC,iBAAiB,CAClB,8BAEG,WAAW,CACX,iBAAkB","file":"main.5bfbb644.chunk.css","sourcesContent":[".exchangerateinfo {\n  &__heading {\n    font-family: \"IBM Plex Sans\", sans-serif;\n    text-align:center;\n  }\n  &__actionarea {\n      margin:20px;\n      text-align: center;\n\n  }\n}\n"]}
