@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5bfbb644.chunk.css",
-    "main.js": "/static/js/main.fa2529b3.chunk.js",
-    "main.js.map": "/static/js/main.fa2529b3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8e4756fc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8e4756fc.js.map",
-    "static/js/2.f0033e34.chunk.js": "/static/js/2.f0033e34.chunk.js",
-    "static/js/2.f0033e34.chunk.js.map": "/static/js/2.f0033e34.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.417ff96844bac83c57e0c964f51a2777.js": "/precache-manifest.417ff96844bac83c57e0c964f51a2777.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5bfbb644.chunk.css.map": "/static/css/main.5bfbb644.chunk.css.map",
-    "static/js/2.f0033e34.chunk.js.LICENSE.txt": "/static/js/2.f0033e34.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/liquality-exercise/static/css/main.5bfbb644.chunk.css",
+    "main.js": "/liquality-exercise/static/js/main.b0852e23.chunk.js",
+    "main.js.map": "/liquality-exercise/static/js/main.b0852e23.chunk.js.map",
+    "runtime-main.js": "/liquality-exercise/static/js/runtime-main.320d77b6.js",
+    "runtime-main.js.map": "/liquality-exercise/static/js/runtime-main.320d77b6.js.map",
+    "static/js/2.f0033e34.chunk.js": "/liquality-exercise/static/js/2.f0033e34.chunk.js",
+    "static/js/2.f0033e34.chunk.js.map": "/liquality-exercise/static/js/2.f0033e34.chunk.js.map",
+    "index.html": "/liquality-exercise/index.html",
+    "precache-manifest.46529a2317e1f3600933336ec47dd7e8.js": "/liquality-exercise/precache-manifest.46529a2317e1f3600933336ec47dd7e8.js",
+    "service-worker.js": "/liquality-exercise/service-worker.js",
+    "static/css/main.5bfbb644.chunk.css.map": "/liquality-exercise/static/css/main.5bfbb644.chunk.css.map",
+    "static/js/2.f0033e34.chunk.js.LICENSE.txt": "/liquality-exercise/static/js/2.f0033e34.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/liquality-exercise/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e4756fc.js",
+    "static/js/runtime-main.320d77b6.js",
     "static/js/2.f0033e34.chunk.js",
     "static/css/main.5bfbb644.chunk.css",
-    "static/js/main.fa2529b3.chunk.js"
+    "static/js/main.b0852e23.chunk.js"
   ]
 }

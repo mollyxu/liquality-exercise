@@ -1,5 +1,5 @@
 {
-  "homepage": "http://molly.liquality.github.io/",
+  "homepage": "https://mollyxu.github.io/liquality-exercise/",
   "name": "liquality-code-exercise",
   "version": "0.1.0",
   "private": true,
@@ -37,6 +37,7 @@
     ]
   },
   "devDependencies": {
+    "eslint-plugin-react": "^7.20.6",
     "gh-pages": "^3.1.0"
   }
 }
