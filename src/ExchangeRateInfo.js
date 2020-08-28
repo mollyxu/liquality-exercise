@@ -18,7 +18,7 @@ class ExchangeRateInfo extends Component {
     super(props);
     this.state = {
       exchangeRates: [],
-      refreshtime: 5000,
+      refreshTime: 5000,
     };
   }
 
@@ -31,7 +31,7 @@ class ExchangeRateInfo extends Component {
   }
 
   toggleRefreshTime = (event) => {
-    this.setState({ refreshtime: event.target.value });
+    this.setState({ refreshTime: event.target.value });
   };
   getData = () => {
     axios
@@ -41,7 +41,7 @@ class ExchangeRateInfo extends Component {
         this.setState({ exchangeRates: exchangeRatesInfo });
         this.intervalID = setTimeout(
           this.getData.bind(this),
-          this.state.refreshtime
+          this.state.refreshTime
         );
       });
   };
@@ -72,7 +72,7 @@ class ExchangeRateInfo extends Component {
             </InputLabel>
             <Select
               native
-              value={this.state.refreshtime}
+              value={this.state.refreshTime}
               onChange={this.toggleRefreshTime}
               label="Refresh Time"
             >
